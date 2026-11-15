@@ -1,3 +1,4 @@
 Hello Git 
 Learning version control 
 I learn git add and git commit 
+type on website
